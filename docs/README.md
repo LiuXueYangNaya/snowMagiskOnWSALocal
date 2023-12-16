@@ -58,6 +58,7 @@
    ```bash
    git clone https://github.com/LSPosed/MagiskOnWSALocal.git --depth 1
    ```
+   Also, the original project address is:[MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
 
 3. Run `cd MagiskOnWSALocal`.
 4. Run `./scripts/run.sh`.
